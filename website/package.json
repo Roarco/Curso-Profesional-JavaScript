@@ -1,0 +1,24 @@
+{
+  "name": "platzi-media-player",
+  "version": "1.0.0",
+  "description": "Proyecto del Curso Profesional de JavaScript de la Escuela de js",
+  "main": "src/index.html",
+  "keywords": [
+    "platzi"
+  ],
+  "scripts": {
+    "start": "parcel index.html src/Ejercicios/index.html src/Ejercicios/**/*.html "
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "typescript": "^4.4.2"
+  },
+  "browserslist": [
+    "last 1 Chrome version"
+  ],
+  "author": "Roberth Arrieta",
+  "license": "MIT",
+  "dependencies": {
+    "@roanarco/platzimediaplayer": "^1.0.0"
+  }
+}
