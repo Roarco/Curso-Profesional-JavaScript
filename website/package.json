@@ -10,7 +10,7 @@
     "start": "parcel index.html src/Ejercicios/index.html src/Ejercicios/**/*.html "
   },
   "devDependencies": {
-    "parcel-bundler": "^1.12.5",
+    "parcel-bundler": "^1.9.4",
     "typescript": "^4.4.2"
   },
   "browserslist": [
